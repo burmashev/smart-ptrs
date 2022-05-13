@@ -1,7 +1,7 @@
 #pragma once
 
-#include "../shared_ptr/sw_fwd.h"  // Forward declaration
-#include "../shared_ptr/shared.h"
+#include "sw_fwd.h"  // Forward declaration
+#include "shared.h"
 
 // https://en.cppreference.com/w/cpp/memory/weak_ptr
 template <typename T>
